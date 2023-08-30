@@ -1,0 +1,51 @@
+/* Write CSS code here for nameplate-2 */
+body{
+    margin: 0;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+span{
+    margin-left: 41rem;
+    font-weight: bold;
+    font-size: 1.8rem;
+    position: relative;
+}
+nav{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#content-a{
+    color: black;
+}
+.content{
+    position: relative;
+    border: 2px solid black;
+    background-color: rgb(120, 163, 243);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 16px;
+    font-size: 1.5rem;
+    margin-left: 32rem;
+}
+.mid-content-1{
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.mid-content{
+    text-align: center;
+    color: white;
+    margin-left: 5rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+}

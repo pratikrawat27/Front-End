@@ -1,0 +1,177 @@
+/* Write CSS code here */
+body{
+    background-color: #ecd7d2;
+    margin-left: 4rem;
+    margin-top: 2.3rem;
+    margin-bottom: 2.3rem;
+    margin-right: 3rem;
+    color: #451207;
+
+}
+button{
+    background-color: #451207;
+    border: none;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 1.3rem;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn0{
+    margin-left: 1rem;
+    border-radius: 12px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.btn1{
+    margin-left: 6.3rem;
+    border-radius: 12px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.btn2{
+    margin-left: 6.3rem;
+    border-radius: 12px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.btn3{
+    margin-left: 6.3rem;
+    border-radius: 12px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.btn4{
+    margin-left: 6.3rem;
+    border-radius: 12px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+}
+.artical1{
+    margin-top: 2rem;
+    margin-left: 0.5rem ;
+    position: relative;
+}
+#title{
+    position: absolute;
+    padding-left: 1rem;
+    font-size: 1.5rem;
+    color: yellow;
+    font-weight: bold;
+}
+#taco{
+    width: 40%;
+    float: left;
+    margin-right: 1.5rem;
+    height: 30rem;
+}
+.artical_p{
+    font-size: 1.3rem;
+}
+.icon1{
+    background-color: #451207;
+    padding-top: 1rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    text-align: center;
+    margin-top: 6.7rem;
+}
+.icon2{
+    background-color: #451207;
+    padding-top: 1rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    text-align: center;
+    margin-top: 6.7rem;
+    margin-left: 2rem;
+}
+.icon3{
+    background-color: #451207;
+    padding-top: 1rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    text-align: center;
+    margin-top: 6.7rem;
+    margin-left: 2rem;
+}
+#taco-p{
+    color: yellow;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#chipotle-p{
+    color: yellow;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#nachos-p{
+    color: yellow;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.icon{
+    display: flex;
+}
+#taco-icon{
+    width: 7rem;
+    height: 6rem;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#chipotle-icon{
+    width: 7rem;
+    height: 6rem;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#nachos-icon{
+    width: 7rem;
+    height: 6rem;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    display: inline-flex;
+    margin-top: 8rem;
+    margin-left: 5rem;
+}
+.img{
+    float: left;
+}
+.music-p{
+    clear: left;
+    font-size: 1.2rem;
+
+}
+.music-t{
+    margin-left: 6.8rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-top: 4rem;
+}
+.music{
+    margin-left: 5rem;
+}
+.karaoke{
+    margin-left: 5rem;
+}
+.dance{
+    margin-left: 5rem;
+}
+.dj{
+    margin-left: 5rem;
+}

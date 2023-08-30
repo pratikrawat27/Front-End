@@ -1,0 +1,35 @@
+/* Write CSS code here */
+body{
+    background-color: #262626;
+    font-family: 'Fraunces', serif;
+    font-size: larger;
+}
+.header{
+    color: white;
+    padding-left: 10px;
+}
+.p{
+    font-family: 'Fraunces', serif;
+    color: greenyellow;
+    padding-left: 10px;
+}
+#hr{
+    color: white;
+}
+.image{
+    width: 15.6rem;
+    height: 10.6rem;
+    padding: 10px;
+    display: inline-block;
+}
+#text{
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+}
+span{
+    font-style: oblique
+}
+div{
+    text-align: center;
+}

@@ -1,0 +1,70 @@
+/* Write CSS code here */
+.body{
+    background-color: white;
+    /* box-shadow: 10px 10px 40px 10px black; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 38rem;
+    padding-bottom: 2.2rem;
+}
+body{
+    margin-top: 8rem;
+    margin-left: 34%;
+    margin-right: 50%;
+}
+.title{
+    font-size: 2.2rem;
+    margin-left: 8.3rem;
+    font-weight: normal;
+}
+.icon-top{
+    float: left;
+    font-size: 6rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.sub-title{
+    margin-left: 8.3rem;
+    font-size: 1.2rem;
+    margin-top: -1.9rem;
+    color: gray;
+    font-weight: normal;
+}
+/* 4:21 */
+img{
+    margin-top: -1rem;
+    width: 100%;
+}
+p{
+    color: gray;
+    font-size: 1.6rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial Narrow;
+}
+.section{
+    padding-top: 3px;
+    font-family: Franklin Gothic Medium;
+}
+.tag{
+    padding-left: 2rem;
+    font-size: 1.5rem;
+}
+a{
+    text-decoration: none;
+    margin-left: 1rem;
+}
+.tag_section{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: Arial, san-serif;
+}
+.tag_icon{
+    float: right;
+    padding-right: 2.5rem;
+    font-size: 2rem;
+    color: gray;
+    margin-top: -2rem;
+}
+#second_icon{
+    margin-left: 1.2rem;
+}
