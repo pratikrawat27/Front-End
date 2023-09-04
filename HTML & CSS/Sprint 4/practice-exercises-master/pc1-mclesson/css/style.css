@@ -55,6 +55,8 @@ nav{
 .main{
     color: #fff;
     letter-spacing: 2px;
+    align-items: center;
+    margin-left: 10rem;
 }
 .main>a{
     text-decoration: none;
@@ -72,17 +74,19 @@ nav{
 }
 #main{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 45% 55%;
     margin-top: 8rem;
-    margin-left: 8rem;
+    margin-bottom: 8rem;
+    align-items: center;
     grid-gap: 20px;
 }
 .main-aside{
     background-color: #fff;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: 12px;
-    align-items: center;
+    justify-content: center;
     padding: 2rem;
+    margin-right: 5rem;
 }
 .main-aside>ul>li{
     list-style-type: none;
@@ -93,10 +97,10 @@ nav{
     color: #333;
 }
 .main-aside>h2{
-    font-size: 3rem;
-    font-weight: 700;
+    font-size: 2.5rem;
+    font-weight: bolder;
 }
 .main>h1{
     font-size: 3.2rem;
-    font-weight: 700;
+    font-weight: bolder;
 }
