@@ -152,7 +152,7 @@ nav {
         margin: 1.2rem;
     }
     .main{
-        margin-left: 0.5rem;
+        margin-left: 0.2rem;
     }
     .main>h1{
         font-size: 2.3rem;
@@ -163,9 +163,11 @@ nav {
         letter-spacing: 2px;
         font-weight: bold;
     }
-    a{
-        font-size: 1.2rem;
+    .main>a{
+        font-size: 1.3rem;
         font-weight: bold;
+        padding-right: 2.5rem;
+        padding-left: 2.5rem;
     }
     h2{
         margin-top: -0.2rem;
@@ -179,5 +181,6 @@ nav {
     }
     .main-aside{
         width: 85%;
+        margin-top: 2.5rem;
     }
 }
